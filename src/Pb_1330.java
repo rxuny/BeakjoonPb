@@ -12,4 +12,4 @@ public class Pb_1330 {
         else System.out.print("==");;
     }
 }
-// 두 수 비교하기
+// 두 수 비교하기.

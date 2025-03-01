@@ -4,7 +4,7 @@ public class Pb_10172 {
 
         sb.append("|\\_/|\n");
         sb.append("|q p|   /}\n");
-        sb.append("( 0 )\"\"\"\\\n");
+        sb.append("( 0 )\"\"\"\\\n"); // 큰따옴표 출력하려면 앞에 역슬래시 붙이기
         sb.append("|\"^\"`    |\n");
         sb.append("||_/=\\\\__|");
 

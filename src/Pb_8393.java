@@ -14,3 +14,4 @@ public class Pb_8393 {
         System.out.println(result);
     }
 }
+// 1부터 n까지의 합 구하기

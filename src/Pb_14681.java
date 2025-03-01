@@ -13,3 +13,4 @@ public class Pb_14681 {
         else System.out.println("4");
     }
 }
+// x,y 좌표가 그래프의 어느 사분면에 속하는지 구하기

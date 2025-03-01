@@ -21,3 +21,4 @@ public class Pb_10807 {
         System.out.print(count);
     }
 }
+// N개의 정수 중 v라는 정수는 몇 개인지 구하기

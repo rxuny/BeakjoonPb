@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pb_10951 {
+public class Pb_10951 { // 여러 개의 테스트 케이스 입력 - while문 무한반복
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
